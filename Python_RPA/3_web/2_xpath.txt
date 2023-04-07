@@ -1,0 +1,10 @@
+/html/body/div/span/a... 이런식으로 따오기
+/학교/학년/반/학생[2] 이렇게 될수도있고
+//*[@학번="1-1-5"] 이렇게 할수도있다
+
+
+/html/body/div/div/div/div/div/div/span/a..
+//*[@id="login"]
+
+//* 모든곳에서 찾는 태그이다.
+
